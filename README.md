@@ -2,7 +2,7 @@
 
 🔭 Hoje trabalho como QA.
 
-🌱 Estudando Python e Java.
+🌱 Estudando Java e Kotlin.
 
 😄 Pronomes: ele / dele.
 
