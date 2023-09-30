@@ -2,7 +2,7 @@
 
 🔭 Hoje trabalho como QA.
 
-🌱 Estudando Java e Kotlin.
+🌱 Estudando Cypress, Selenium com Java e outras ferramentas, com intuíto de conseguir ser um automator! 
 
 
 <div>
