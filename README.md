@@ -2,7 +2,7 @@
 
 🔭 Hoje trabalho como QA.
 
-🌱 Estudando Cypress, Selenium com Java, Java e outros, com intuíto de conseguir ser um automator e um desenvolvedor! 
+🌱 Estudando Cypress, Selenium com Java, Java e outros, com intuíto de conseguir ser um automatizador!
 
 
 <div>
